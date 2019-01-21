@@ -2,7 +2,7 @@
 Context : 3rd year level of a 5-year engineer degree, 3-week team project. </br>
 Place : ISEN Lille. </br>
 
-Solution for a secured entrance control using a smartphone.
+Solution for a secured entrance control using a smartphone. </br>
 By Justin Duban, Thibault Gruez, Louis Thierry, Sixtyne Vanhaverbeke et Gauthier Vroylandt. 
 
 Developed using Constellation by Sebastien Warrin : http://www.myconstellation.io/
